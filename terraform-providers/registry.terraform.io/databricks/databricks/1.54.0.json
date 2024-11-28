@@ -1,0 +1,10 @@
+{
+  "archives": {
+    "windows_amd64": {
+      "hashes": [
+        "h1:XGBDuIBudpqjLRmajRAzkD1V9P4v8f4bTv6d6q/sN0A="
+      ],
+      "url": "terraform-provider-databricks_1.54.0_windows_amd64.zip"
+    }
+  }
+}
